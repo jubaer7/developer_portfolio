@@ -6,10 +6,13 @@
   color: #fd6e0a;
 }
 .header {
+  max-width: 1680px;
+  height: 837px;
   background: #fff8f3;
-  background-image: url("../images/header_bg.png"), url(../images/developer.png);
+  background-image: url("../images/header_bg.png"),
+    url("../images/developer.png");
   background-repeat: no-repeat;
-  background-position: right, left;
+  background-position: bottom right, left;
 }
 /* Header and Navigation styles */
 nav {
@@ -73,7 +76,7 @@ main {
 
 /* About section styles */
 .about {
-  margin-top: 130px;
+  margin-top: 170px;
   background: #fff8f3;
   text-align: center;
   border-radius: 10px;
