@@ -168,9 +168,9 @@ main {
   margin-top: 50px;
   text-align: center;
 }
-/* Contract Styles */
+/* contact Styles */
 
-.contract {
+.contact {
   display: flex;
   background: #fff8f3;
   padding: 130px 100px;
@@ -181,12 +181,12 @@ main {
   margin-bottom: 30px;
 }
 
-.contract .section-description {
+.contact .section-description {
   margin-bottom: 30px;
   text-align: left;
   max-width: 90%;
 }
-.contract input[type="text"],
+.contact input[type="text"],
 input[type="email"],
 textarea {
   margin-bottom: 24px;
@@ -195,6 +195,6 @@ textarea {
   padding: 18px 30px;
 }
 
-.contract a {
+.contact a {
   text-decoration: none;
 }
